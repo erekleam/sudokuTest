@@ -82,7 +82,9 @@ hr{
 	border-radius: 50%;
 	bottom: -40px;
 	left: -21px;
-	background: url(../images/sticker2.jpg);
+	background: url(../images/small1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
 	z-index: 20;
 
 }
